@@ -1,0 +1,159 @@
+{
+  "translation": {
+"Next" : "Next",
+"Skip" : "Skip",
+"Done" : "Done",
+"Confirm" : "Confirm",
+"Continue" : "Continue",
+"Log in" : "Log in",
+"Sign up" : "Sign up",
+"Email" : "Email",
+
+"Info":"Info",
+"Choose Language" :"Scegli Lingua",
+"First Name" : "Nome",
+"Last Name":"Cognome",
+"Mobile Tel":"Cellulare",
+"Password":"Password",
+"Confirm Password":"Confirm Password",
+"Mobile Verification" : "Verifica Numero",
+"Do you have a Gift Code?":"Hai Un Gift Code?",
+"Yes":"Si",
+"No":"No",
+"Enter The Code You Received to Your Mobile Phone":"Inserisci il codice che hai ricevuto nel tuo cellulare",
+"Didn't Receive a Code? Resend":"Non hai ricevuto un codice? Invia di nuovo",
+
+"Verify":"Verifica",
+"Change Telephone" : "Cambia Numero",
+
+"Date of Birth":"Data Di Nascita",
+"YYYY-MM-DD":"YYYY-MM-DD",
+"Gender":"Genere",
+"Select Gender":"Seleziona Genere",
+"Female":"Femmina",
+"Male":"Maschio",
+"Οther":"Altro",
+"City":"Città",
+"Country":"Paese",
+"Marital Status":"Stato Civile",
+"Married":"Sposato/a",
+"Not married":"Non Sposato/a",
+"Kids (Below 12 years old)":"Bambini (sotto i 12 anni)",
+
+
+"Interests & Hobbies":"Interests & Hobbies",
+
+"Entartainment / Art":"Intrattenimento / Arte",
+"Travelling":"Viaggiare",
+"Sports":"Sports",
+"Fashion & Shopping":"Moda e Acquisti",
+"Personal Care":"Personal Care",
+"Nightlife:":"Vita Notturna",
+"Pets":"Animali Domestici",
+
+"User ID":"User ID",
+"My Rewards":"My Rewards",
+"My Wallet":"My Wallet",
+"Deals & Offers" : "Deals & Offers",
+"Marketplace":"Marketplace",
+"Super Code":"Super Code",
+
+"STAMPS":"STAMPS",
+"POINTS":"POINTS",
+"POINTS FOR NEXT LEVEL":"POINTS PER IL PROSSIMO LIVELLO",
+
+"Transaction History":"Storia Delle Transazioni",
+"TYPE":"TIPO",
+"No Data Available":"Nessun dato disponibile",
+
+"Ready to Scan":"Pronto Per Scan",
+
+"Active" : "Active",
+"Expired/Used":"Scaduto/Usato",
+"DATE OF EXPIRATION":"DATA DI SCADENZA",
+"VOUCHER":"VOUCHER",
+"VOUCHER CATEGORY":"CATEGORIA VOUCHER",
+
+"Lottery Participations" : "Partecipazioni Alla Lotteria",
+"Expiry date":"Data di Scadenza:",
+"Send a Gift":"Invia Regalo",
+"Gift Card":"Gift Card",
+"To (Name)":"A (Nome)",
+"From (Name)":"Da (Nome)",
+"Message":"Messaggio",
+"Send Gift Card":"Invia Gift Card",
+
+"Brand":"Brand",
+"Business" : "Business",
+
+
+"Promotions":"Promotions",
+"Choose Brand":"Scegli Brand",
+"Enter Code":"Inserisci Codice",
+"Enter Your Super Code":"Inserisci il tuo Super Code",
+"Submit":"Invia",
+"Scan Code":"Scan Codice",
+"Upload Receipt":"Carica ricevuta",
+"Distance":"Distance",
+"Your Points":"Your Points",
+"About Us":"Chi siamo",
+"Gallery":"Gallery",
+"Super Deals":"Super Deals",
+"Available Points":"Available Points",
+"Purchase Options":"Opzioni di acquisto",
+"Buy":"Compra",
+
+
+"Account / Settings":"Account / Impostazioni",
+"Account Details":"Dettagli Account",
+"Notifications":"Notifications",
+"Orders":"Ordini",
+"Appointments":"Appuntamenti",
+"Refer a Business":"Rιferisci Business",
+"Link Other Programs":"Collega altri programmi",
+"Tutorial":"Tutorial",
+"Rate App":"Rate App",
+"Get in touch":"Contatta",
+"Terms & Conditions":"Termini & Condizioni",
+"Privacy Policy":"Politica Sulla Riservatezza",
+"Logout":"Logout",
+
+"Member Since":"Membro da",
+"My Orders":"I Miei Ordini",
+"DATE":"DATE",
+"BUSINESS":"BUSINESS",
+"STATUS":"STATUS",
+"History Of Orders":"Storia Degli Ordini",
+"History":"Storia",
+"TIME":"ORA",
+"DAYS":"GIORNI",
+
+"Refer a Business For Join":"Riferisci Un Business",
+"Name of Business":"Nome Del Busines",
+"Business Details (mobile/email etc)":"Dettagli Business (tel / email ecc)",
+"Your Full Name":"Il Tuo Nome Completo",
+"This business will be notified about your referral.":"Questo business vedrà che li hai referti.",
+"Your Email":"La Tua Email",
+"The business will reward you for your referral after it's registration on the For_More platform.I have read and agree to the Terms & ConditionsSend":"Il business ti ricompenserà per il tuo riferimento dopo la sua registrazione sulla piattaforma For_More.",
+
+"Other Programs":"Altri Programmi",
+
+"Name":"Nome",
+"Surname":"Cognome",
+"Type Your Card Code":"Digita il Codice Della Tua Carta",
+"Upload Front Side Image of Your Card":"Carica il Lato Anteriore Della Carta",
+"Upload Back Side Image of Your Card":"Carica il Lato Posteriore Della Carta",
+"Member Linked With The Program":"Membro Collegato al Programma",
+
+"Business Catalog":"Business Catalogo",
+"Read full terms conditions":"Termini & Condizioni",
+
+"Contact us":"Contattaci",
+"Visit us":"Visitateci"
+
+,"Keep in mind that it will permanently erase your entire transactions, points or stamps collected so far.":"Tieni presente che cancellerà definitivamente tutte le tue transazioni o punti raccolti fino a quel momento."
+,"Are you sure you want to delete your For More account? If yes, click to Send email to proceed with deleting your account.":"Sei sicuro di voler eliminare il tuo account For More? In caso affermativo, fai clic su Invia e-mail per procedere con l'eliminazione del tuo account."
+
+,"Send Email":"Invia Email"
+}
+}

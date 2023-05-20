@@ -1,0 +1,160 @@
+{
+  "translation": {
+"Next" : "Next",
+"Skip" : "Skip",
+"Done" : "Done",
+"Confirm" : "Confirm",
+"Continue" : "Continue",
+"Log in" : "Log in",
+"Sign up" : "Sign up",
+"Email" : "Email",
+
+"Info":"Info",
+"Choose Language" :"Zgjidh Gjuhën",
+"First Name" : "Emri",
+"Last Name":"Mbiemri",
+"Mobile Tel":"Nr. Ceular",
+"Password":"Password",
+"Confirm Password":"Confirm Password",
+"Mobile Verification" : "Verifikim Celulari",
+"Do you have a Gift Code?":"A Ke Gift Code?",
+"Yes":"Po",
+"No":"Jo",
+"Enter The Code You Received to Your Mobile Phone":"Vendos Kodin qe Kemi Dërguar në Numrin Tënd të Celularit:",
+"Didn't Receive a Code? Resend":"Nuk ke marr kodin? Ridërgo",
+
+"Verify":"Verifiko",
+"Change Telephone" : "Ndrysho Numrin",
+
+"Date of Birth":"Datëlindja",
+"YYYY-MM-DD":"YYYY-MM-DD",
+"Gender":"Gjinia",
+"Select Gender":"Zgjidh Gjininë",
+"Female":"Femër",
+"Male":"Mashkull",
+"Οther":"Tjetër",
+"City":"Qyteti",
+"Country":"Shteti",
+"Marital Status":"Gjendja Civile",
+"Married":"I/e Martuar",
+"Not married":"Beqar/e",
+"Kids (Below 12 years old)":"Fëmijë (Nën 12 vjeç)",
+
+
+"Interests & Hobbies":"Interesa & Hobby",
+
+"Entartainment / Art":"Argëtim / Art",
+"Travelling":"Udhëtime",
+"Sports":"Sport",
+"Fashion & Shopping":"Modë & Blerje",
+"Personal Care":"Personal Care",
+"Nightlife:":"Jeta e Natës",
+"Pets":"Kafshë",
+
+"User ID":"User ID",
+"My Rewards":"My Rewards",
+"My Wallet":"My Wallet",
+"Deals & Offers" : "Deals & Offers",
+"Marketplace":"Marketplace",
+"Super Code":"Super Code",
+
+"STAMPS":"STAMPS",
+"POINTS":"POINTS",
+"POINTS FOR NEXT LEVEL":"POINTS PËR NIVELIN TJETËR",
+
+"Transaction History":"Historiku i Transaksioneve",
+"TYPE":"LLOJI",
+"No Data Available":"Nuk Ka të Dhëna të Disponueshme",
+
+"Ready to Scan":"Gati Për Skanim",
+
+"Active" : "Aktiv",
+"Expired/Used":"Skaduar/Përdorur",
+"DATE OF EXPIRATION":"DATA E SKADIMIT",
+"VOUCHER":"VOUCHER",
+"VOUCHER CATEGORY":"KATEGORIA VOUCHER",
+
+"Lottery Participations" : "Pjesëmarrje në Lotari",
+"Expiry date":"Data e Skadimit:",
+"Send a Gift":"Dërgoje Dhuratë",
+"Gift Card":"Gift Card",
+"To (Name)":"Tek (Emri)",
+"From (Name)":"Nga (Emri)",
+"Message":"Mesazh",
+"Send Gift Card":"Dërgo Gift Card",
+
+"Brand":"Brand",
+"Business" : "Business",
+
+
+"Promotions":"Promotions",
+"Choose Brand":"Zgjidh Brand",
+"Enter Code":"Vendos Kodin",
+"Enter Your Super Code":"Shkruaj Super Code-in Tënd",
+"Submit":"Konfirmo",
+"Scan Code":"Skano Kodin",
+"Upload Receipt":"Ngarko Faturë",
+"Distance":"Distance",
+"Your Points":"Your Points",
+"About Us":"About Us",
+"Gallery":"Gallery",
+"Super Deals":"Super Deals",
+"Available Points":"Available Points",
+"Purchase Options":"Opsionet e Blerjes",
+"Buy":"Bli",
+
+
+"Account / Settings":"Llogaria / Konfigurime",
+"Account Details":"Detajet e Llogarisë",
+"Notifications":"Notifications",
+"Orders":"Porositë",
+"Appointments":"Takime",
+"Refer a Business":"Refero Një Biznes",
+"Link Other Programs":"Lidhu me Programe të Tjera",
+"Tutorial":"Tutorial",
+"Rate App":"Rate App",
+"Get in touch":"Kontakt",
+"Terms & Conditions":"Kushtet e Përdorimit",
+"Privacy Policy":"Politika e Privatësisë",
+"Logout":"Logout",
+
+"Member Since":"Anëtar që Prej",
+"My Orders":"Porositë e Mia",
+"DATE":"DATE",
+"BUSINESS":"BUSINESS",
+"STATUS":"STATUS",
+"History Of Orders":"Historiku i Porosive",
+"History":"Historiku",
+"TIME":"ORA",
+"DAYS":"DITË",
+
+"Refer a Business For Join":"Refero një Biznes",
+"Name of Business":"Emri i Biznesit",
+"Business Details (mobile/email etc)":"Detaje të Biznesit (cel / email etj)",
+"Your Full Name":"Emri yt i Plotë",
+"This business will be notified about your referral.":"Biznesi do të njoftohet në lidhje me referimin tënd.",
+"Your Email":"Email-i yt",
+"The business will reward you for your referral after it's registration on the For_More platform.I have read and agree to the Terms & ConditionsSend":"Biznesi do të të shpërblejë për referimin tënd pas regjistrimit të tij në platformën For_More.",
+
+"Other Programs":"Programe të Tjera",
+
+"Name":"Emri",
+"Surname":"Mbiemri",
+"Type Your Card Code":"Shkruaj Kodin e Kartës Tënde",
+"Upload Front Side Image of Your Card":"Ngarko Foton e Përparme të Kartës",
+"Upload Back Side Image of Your Card":"Ngarko Foton e Pasme të Kartës",
+"Member Linked With The Program":"Anëtar i Lidhur me Programin",
+
+"Business Catalog":"Katalogu i Bizneseve",
+"Read full terms conditions":"Kushtet e Përdorimit",
+
+
+"Contact us":"Na vizitoni",
+"Visit us":"Επισκέψου μας"
+
+,"Keep in mind that it will permanently erase your entire transactions, points or stamps collected so far.":"Ki parasysh se do të fshihen të gjitha transaksionet ose pikët të cilat ke grumbulluar deri më tani."
+,"Are you sure you want to delete your For More account? If yes, click to Send email to proceed with deleting your account.":"Je i sigurt që dëshiron të fshihet llogaria jote në For More? Nëse po, kliko te Dërgo email për të vazhduar me fshirjen e llogarisë tënde."
+
+,"Send Email":"Dërgo Email"
+}
+}

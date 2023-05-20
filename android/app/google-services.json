@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "421066113443",
+    "project_id": "formore-5af2c",
+    "storage_bucket": "formore-5af2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421066113443:android:ffd263acc5d7cac8adda16",
+        "android_client_info": {
+          "package_name": "com.formore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421066113443-dkejgijjhhdlu8mu45p4knfrmebdvkrs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKMA4Rt9WlPt3IoC8QAhEUqBmKyj_HBkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421066113443-dkejgijjhhdlu8mu45p4knfrmebdvkrs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

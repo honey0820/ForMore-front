@@ -1,0 +1,160 @@
+{
+  "translation": {
+"Next" : "Next",
+"Skip" : "Skip",
+"Done" : "Done",
+"Confirm" : "Confirm",
+"Continue" : "Continue",
+"Log in" : "Log in",
+"Sign up" : "Sign up",
+"Email" : "Email",
+
+"Info":"Info",
+"Choose Language" :"Επέλεξε Γλώσσα",
+"First Name" : "Όνομα",
+"Last Name":"Επώνυμο",
+"Mobile Tel":"Κινητό Τηλ.",
+"Password":"Password",
+"Confirm Password":"Confirm Password",
+"Mobile Verification" : "Επαλήθευση Τηλεφώνου",
+"Do you have a Gift Code?":"Έχεις Gift Code;",
+"Yes":"Ναι",
+"No":"Όχι",
+"Enter The Code You Received to Your Mobile Phone":"Γράψε Τον Κωδικό Που Έλαβες Στο Κινητό Σου Τηλέφωνο",
+"Didn't Receive a Code? Resend":"Δεν Έλαβες Κωδικό;  Ξαναστείλε",
+
+"Verify":"Επιβεβαίωση",
+"Change Telephone" : "Αλλαγή Τηλεφώνου",
+
+"Date of Birth":"Ημερομηνία Γεννήσεως",
+"YYYY-MM-DD":"YYYY-MM-DD",
+"Gender":"Φύλο",
+"Select Gender":"Επέλεξε Φύλο",
+"Female":"Θηλικό",
+"Male":"Αρσενικό",
+"Οther":"Άλλο",
+"City":"Πόλη",
+"Country":"Πόλη",
+"Marital Status":"Οικογενειακή Κατάσταση",
+"Married":"Έγγαμος/η",
+"Not married":"Άγαμος/η",
+"Kids (Below 12 years old)":"Παιδιά (Κάτω των 12 χρονών))",
+
+
+"Interests & Hobbies":"Ενδιαφέροντα & Hobby",
+
+"Entartainment / Art":"Διασκέδαση / Τέχνη",
+"Travelling":"Ταξίδια",
+"Sports":"Αθλητισμός",
+"Fashion & Shopping":"Μόδα & Ψώνια",
+"Personal Care":"Personal Care",
+"Nightlife:":"Νυχτερινή Ζωή",
+"Pets":"Κατοικίδια",
+
+"User ID":"User ID",
+"My Rewards":"My Rewards",
+"My Wallet":"My Wallet",
+"Deals & Offers" : "Deals & Offers",
+"Marketplace":"Marketplace",
+"Super Code":"Super Code",
+
+"STAMPS":"STAMPS",
+"POINTS":"POINTS",
+"POINTS FOR NEXT LEVEL":"POINTS FOR NEXT LEVEL",
+
+"Transaction History":"Ιστορικό Συναλλαγών",
+"TYPE":"TYPE",
+"No Data Available":"Δεν Υπάρχουν Διαθέσιμα Δεδομένα",
+
+"Ready to Scan":"Ready to Scan",
+
+"Active" : "Active",
+"Expired/Used":"Expired/Used",
+"DATE OF EXPIRATION":"DATE OF EXPIRATION",
+"VOUCHER":"VOUCHER",
+"VOUCHER CATEGORY":"VOUCHER CATEGORY",
+
+"Lottery Participations" : "Lottery Participations",
+"Expiry date":"Expiry date",
+"Send a Gift":"Send a Gift",
+"Gift Card":"Gift Card",
+"To (Name)":"Προς ('Ονομα)",
+"From (Name)":"Από (Όνομα)",
+"Message":"Μήνυμα",
+"Send Gift Card":"Send Gift Card",
+
+"Brand":"Brand",
+"Business" : "Business",
+
+
+"Promotions":"Promotions",
+"Choose Brand":"Επέλεξε Brand",
+"Enter Code":"Εισαγωγή Κωδικού",
+"Enter Your Super Code":"Πληκτρολόγησε το Super Code σου",
+"Submit":"Υποβολή",
+"Scan Code":"Σάρωσε τον Κωδικό",
+"Upload Receipt":"Ανέβασε Απόδειξη",
+"Distance":"Distance",
+"Your Points":"Your Points",
+"About Us":"About Us",
+"Gallery":"Gallery",
+"Super Deals":"Super Deals",
+"Available Points":"Available Points",
+"Purchase Options":"Επιλογές Αγοράς",
+"Buy":"Αγορά",
+
+
+"Account / Settings":"Λογαριασμός / Ρυθμίσεις",
+"Account Details":"Στοιχεία Λογαριασμού",
+"Notifications":"Notifications",
+"Orders":"Παραγγελίες",
+"Appointments":"Ραντεβού",
+"Refer a Business":"Πρότεινε Μια Επιχείρηση",
+"Link Other Programs":"Σύνδεση Άλλων Προγραμμάτων",
+"Tutorial":"Tutorial",
+"Rate App":"Rate App",
+"Get in touch":"Επικοινωνία",
+"Terms & Conditions":"Όροι Χρήσης και Προϋποθέσεις",
+"Privacy Policy":"Πολιτική Απορρήτου",
+"Logout":"Logout",
+
+"Member Since":"Μέλος Από",
+"My Orders":"Οι Παραγγελίες Μου",
+"DATE":"ΗΜΕΡΟΜΗΝΙΑ",
+"BUSINESS":"BUSINESS",
+"STATUS":"ΚΑΤΑΣΤΑΣΗ",
+"History Of Orders":"ΙστορίικόΠαραγγελιών",
+"History":"Ιστορικό",
+"TIME":"ΏΡΑ",
+"DAYS":"ΗΜΕΡΕΣ",
+
+"Refer a Business For Join":"Πρότεινε Μια Επιχείρηση",
+"Name of Business":"Επωνυμία Επιχείρησης",
+"Business Details (mobile/email etc)":"Επιχείρηση (τηλ / email κλπ)",
+"Your Full Name":"Το Ονοματεπώνυμο Σου",
+"This business will be notified about your referral.":"Η επιχείρηση θα ειδοποιηθεί σχετικά με την προτίμηση σου.",
+"Your Email":"Το Email Σου",
+"The business will reward you for your referral after it's registration on the For_More platform.I have read and agree to the Terms & ConditionsSend":"Η επιχείρηση θα σε ανταμείψει με την εγγραφή της στην πλατφόρμα For_More.",
+
+"Other Programs":"Άλλα Προγράμματα",
+
+"Name":"Όνομα",
+"Surname":"Επώνυμο",
+"Type Your Card Code":"Πληκτρολόγησε τον Κωδικό της Κάρτας Σου",
+"Upload Front Side Image of Your Card":"Ανέβασε την Πίσω Όψη Της Κάρτας Σου",
+"Upload Back Side Image of Your Card":"Ανέβασε την Πίσω Όψη Της Κάρτας Σου",
+"Member Linked With The Program":"Συνδεδεμένο Μέλος",
+
+"Business Catalog":"Κατάλογος Επιχειρήσεων",
+"Read full terms conditions":"Όροι & Προϋποθέσεις",
+
+"Contact us":"Επικοινωνήστε μαζί μας",
+"Visit us":"Visit us"
+
+,"Keep in mind that it will permanently erase your entire transactions, points or stamps collected so far.":"Λάβε υπόψη σου ότι θα διαγραφούν οριστικά όλες οι συναλλαγές ή οι πόντοι που έχεις συγκεντρώσει μέχρι στιγμής."
+,"Are you sure you want to delete your For More account? If yes, click to Send email to proceed with deleting your account.":"Είσαι βέβαιος ότι θέλεις να διαγράψεις τον λογαριασμό σου στη For More; Εάν ναι, κάνε κλίκ στην επιλογή Αποστολή email για να προχωρήσεις στη διαγραφή του λογαριασμού σου."
+
+,"Send Email":"Αποστολή Email"
+
+}
+}

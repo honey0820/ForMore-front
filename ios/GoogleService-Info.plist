@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>421066113443-g7rj3at5jaqvlovptntv9usetbcsq8q9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.421066113443-g7rj3at5jaqvlovptntv9usetbcsq8q9</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>421066113443-of6v5p1o6vj29d4vb7k3n10t5040d3gc.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBjotYNqHOHgY9GYs0UiXyKCQJOl7SWedE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>421066113443</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.formore</string>
+	<key>PROJECT_ID</key>
+	<string>formore-5af2c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>formore-5af2c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:421066113443:ios:d5d1d5630aba142eadda16</string>
+	<key>DATABASE_URL</key>
+	<string>https://formore-5af2c-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

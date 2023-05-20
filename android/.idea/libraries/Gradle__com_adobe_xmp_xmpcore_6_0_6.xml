@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.adobe.xmp:xmpcore:6.0.6">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.adobe.xmp/xmpcore/6.0.6/fb29d75ac313aed79013505b965d2378a87a9405/xmpcore-6.0.6.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.adobe.xmp/xmpcore/6.0.6/77f18c5cdd084d716d78d002070007f6d9a6a23c/xmpcore-6.0.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.adobe.xmp/xmpcore/6.0.6/fdc9cd2e94ddfa684778eb0bb6ed67df67657ef3/xmpcore-6.0.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

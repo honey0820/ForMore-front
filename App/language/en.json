@@ -1,0 +1,159 @@
+{
+  "translation": {
+"Next" : "Next",
+"Skip" : "Skip",
+"Done" : "Done",
+"Confirm" : "Confirm",
+"Continue" : "Continue",
+"Log in" : "Log in",
+"Sign up" : "Sign up",
+"Email" : "Email",
+
+"Info":"Info",
+"Choose Language" :"Choose Language",
+"First Name" : "First Name",
+"Last Name":"Last Name",
+"Mobile Tel":"Mobile Tel",
+"Password":"Password",
+"Confirm Password":"Confirm Password",
+"Mobile Verification" : "Mobile Verification",
+"Do you have a Gift Code?":"Do you have a Gift Code?",
+"Yes":"Yes",
+"No":"No",
+"Enter The Code You Received to Your Mobile Phone":"Enter The Code You Received to Your Mobile Phone",
+"Didn't Receive a Code? Resend":"Didn't Receive a Code? Resend",
+
+"Verify":"Verify",
+"Change Telephone" : "Change Telephone",
+
+"Date of Birth":"Date of Birth",
+"YYYY-MM-DD":"YYYY-MM-DD",
+"Gender":"Gender",
+"Select Gender":"Select Gender",
+"Female":"Female",
+"Male":"Male",
+"Οther":"Οther",
+"City":"City",
+"Country":"Country",
+"Marital Status":"Marital Status",
+"Married":"Married",
+"Not married":"Not married",
+"Kids (Below 12 years old)":"Kids (Below 12 years old)",
+
+
+"Interests & Hobbies":"Interests & Hobbies",
+
+"Entartainment / Art":"Entartainment / Art",
+"Travelling":"Travelling",
+"Sports":"Sports",
+"Fashion & Shopping":"Fashion & Shopping",
+"Personal Care":"Personal Care",
+"Nightlife:":"Nightlife",
+"Pets":"Pets",
+
+"User ID":"User ID",
+"My Rewards":"My Rewards",
+"My Wallet":"My Wallet",
+"Deals & Offers" : "Deals & Offers",
+"Marketplace":"Marketplace",
+"Super Code":"Super Code",
+
+"STAMPS":"STAMPS",
+"POINTS":"POINTS",
+"POINTS FOR NEXT LEVEL":"POINTS FOR NEXT LEVEL",
+
+"Transaction History":"Transaction History",
+"TYPE":"TYPE",
+"No Data Available":"No Data Available",
+
+"Ready to Scan":"Ready to Scan",
+
+"Active" : "Active",
+"Expired/Used":"Expired/Used",
+"DATE OF EXPIRATION":"DATE OF EXPIRATION",
+"VOUCHER":"VOUCHER",
+"VOUCHER CATEGORY":"VOUCHER CATEGORY",
+
+"Lottery Participations" : "Lottery Participations",
+"Expiry date":"Expiry date",
+"Send a Gift":"Send a Gift",
+"Gift Card":"Gift Card",
+"To (Name)":"To (Name)",
+"From (Name)":"From (Name",
+"Message":"Message",
+"Send Gift Card":"Send Gift Card",
+
+"Brand":"Brand",
+"Business" : "Business",
+
+
+"Promotions":"Promotions",
+"Choose Brand":"Choose Brand",
+"Enter Code":"Enter Code",
+"Enter Your Super Code":"Enter Your Super Code",
+"Submit":"Submit",
+"Scan Code":"Scan Code",
+"Upload Receipt":"Upload Receipt",
+"Distance":"Distance",
+"Your Points":"Your Points",
+"About Us":"About Us",
+"Gallery":"Gallery",
+"Super Deals":"Super Deals",
+"Available Points":"Available Points",
+"Purchase Options":"Purchase Options",
+"Buy":"Buy",
+
+
+"Account / Settings":"Account / Settings",
+"Account Details":"Account Details",
+"Notifications":"Notifications",
+"Orders":"Orders",
+"Appointments":"Appointments",
+"Refer a Business":"Refer a Business",
+"Link Other Programs":"Link Other Programs",
+"Tutorial":"Tutorial",
+"Rate App":"Rate App",
+"Get in touch":"Get in touch",
+"Terms & Conditions":"Terms & Conditions",
+"Privacy Policy":"Privacy Policy",
+"Logout":"Logout",
+
+"Member Since":"Member Since",
+"My Orders":"My Orders",
+"DATE":"DATE",
+"BUSINESS":"BUSINESS",
+"STATUS":"STATUS",
+"History Of Orders":"History Of Orders",
+"History":"History",
+"TIME":"TIME",
+"DAYS":"DAYS",
+
+"Refer a Business For Join":"Refer a Business For Join",
+"Name of Business":"Name of Business",
+"Business Details (mobile/email etc)":"Business Details (mobile/email etc)",
+"Your Full Name":"Your Full Name",
+"This business will be notified about your referral.":"This business will be notified about your referral.",
+"Your Email":"Your Email",
+"The business will reward you for your referral after it's registration on the For_More platform.I have read and agree to the Terms & ConditionsSend":"The business will reward you for your referral after it's registration on the For_More platform.I have read and agree to the Terms & Conditions.Send",
+
+"Other Programs":"Other Programs",
+
+"Name":"Name",
+"Surname":"Surname",
+"Type Your Card Code":"Type Your Card Code",
+"Upload Front Side Image of Your Card":"Upload Front Side Image of Your Card",
+"Upload Back Side Image of Your Card":"Upload Back Side Image of Your Card",
+"Member Linked With The Program":"Member Linked With The Program",
+
+"Business Catalog":"Business Catalog",
+"Read full terms conditions":"Read full terms conditions",
+
+
+"Contact us":"Contact us",
+"Visit us":"Visit us"
+
+,"Keep in mind that it will permanently erase your entire transactions, points or stamps collected so far.":"Keep in mind that it will permanently erase your entire transactions, points or stamps collected so far."
+,"Are you sure you want to delete your For More account? If yes, click to Send email to proceed with deleting your account.":"Are you sure you want to delete your For More account? If yes, click to Send email to proceed with deleting your account."
+,"Send Email":"Send Email"
+}
+}

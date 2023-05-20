@@ -1,0 +1,55 @@
+require_relative '../node_modules/react-native/scripts/react_native_pods'
+require_relative '../node_modules/@react-native-community/cli-platform-ios/native_modules'
+
+platform :ios, '13.0'
+
+target 'ForMore' do
+
+  config = use_native_modules!
+  use_react_native!(:path => config["reactNativePath"])
+  pod 'RNVectorIcons', :path => '../node_modules/react-native-vector-icons'
+  rn_maps_path = '../node_modules/react-native-maps'
+  pod 'react-native-google-maps', :path => rn_maps_path
+
+  pod 'Firebase/Messaging'
+  pod 'RNVectorIcons', :path => '../node_modules/react-native-vector-icons'
+  
+  pod 'GoogleUtilities', :modular_headers => true
+  pod 'FirebaseCore', :modular_headers => true
+
+  target 'ForMoreTests' do
+    inherit! :complete
+    pod 'RNFBApp', :path => '../node_modules/@react-native-firebase/app'
+    pod 'RNFBMessaging', :path => '../node_modules/@react-native-firebase/messaging'
+   
+    # Pods for testing
+  end
+
+  use_flipper!({ 'Flipper' => '0.87' })
+  # use_flipper!({ 'Flipper-Folly' => '2.3.0' }) # update this part
+  post_install do |installer|
+    flipper_post_install(installer)
+  end
+end
+
+target 'ForMore-tvOS' do
+  # Pods for ForMore-tvOS
+
+  target 'ForMore-tvOSTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+end
+
+def find_and_replace(dir, findstr, replacestr)
+  Dir[dir].each do |name|
+      text = File.read(name)
+      replace = text.gsub(findstr,replacestr)
+      if text != replace
+          puts "Fix: " + name
+          File.open(name, "w") { |file| file.puts replace }
+          STDOUT.flush
+      end
+  end
+  Dir[dir + '*/'].each(&method(:find_and_replace))
+end

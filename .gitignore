@@ -1,0 +1,32 @@
+# Xcode
+#
+.DS_Store
+*/build/
+
+# Build artifacts
+#
+node_modules/
+npm-debug.log
+ios/Pods/
+android/.gradle/
+android/app/build/
+ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMapsCore.framework/GoogleMapsCore
+
+# Android generated files
+#
+android/*/gen/
+android/*/bin/
+android/*/obj/
+
+# Logs and databases
+#
+*.log
+*.sqlite
+*.db
+*.hprof
+
+# Gradle-specific files
+#
+.gradle/
+gradlew
+gradlew.bat
